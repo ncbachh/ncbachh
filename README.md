@@ -57,7 +57,6 @@ I am a highly motivated IT student at **National Economics University (NEU)** wi
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 📧 **Email:** [nguyenchibach10@gmail.com]
 - 📍 **Location:** Hanoi, Vietnam
 
