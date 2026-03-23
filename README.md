@@ -1,7 +1,3 @@
-
-
-# 🚀 Professional GitHub Profile README
-
 # Hi there, I'm Bach 👋
 ### Aspiring Data Analyst | Data-driven Engineer | 3rd Year IT Student @ NEU
 
