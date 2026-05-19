@@ -1,7 +1,7 @@
 # Hi there, I'm Bach 👋
-### Aspiring Data Analyst | Data-driven Engineer | 3rd Year IT Student @ NEU
+### Aspiring Data Analyst | Data-driven Engineer | 4th Year IT Student @ NEU
 
-I am a highly motivated IT student at **National Economics University (NEU)** with a **GPA of 3.73/4.0**. My passion lies at the intersection of data, automation, and business intelligence. I specialize in building robust data pipelines and automation tools that bridge the gap between complex technical processes and practical business needs.
+I am a highly motivated IT student at **National Economics University (NEU)** with a **GPA of 3.73/4.0**. My passion lies at the intersection of data, automation, and business intelligence. I specialize in building robust data pipelines, applying machine learning for customer insights, and creating automation tools that bridge the gap between complex technical processes and practical business needs.
 
 ---
 
@@ -9,15 +9,22 @@ I am a highly motivated IT student at **National Economics University (NEU)** wi
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python (Primary), SQL |
-| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib |
-| **Visualization** | Power BI, Streamlit |
-| **Automation** | Selenium (Web Scraping), BeautifulSoup4, Python-docx |
+| **Languages** | Python, R, SQL |
+| **Data Science & ML** | Tidyverse, Pandas, NumPy, Scikit-learn, K-Means Clustering, Apriori Algorithm |
+| **Visualization & Reporting** | Power BI, Streamlit, R Markdown, Ggplot2 |
+| **Automation & Scraping** | Selenium (Web Scraping), Playwright, BeautifulSoup4, Python-docx |
 | **Infrastructure** | Git/GitHub, Windows Server/Client Configuration, Network Administration |
 
 ---
 
 ### 📂 Featured Projects
+
+#### 📊 [Customer Analytics & Business Intelligence for Online Retail](https://github.com/ncbachh/OnlineRetailAnalysis)
+*A comprehensive data science project transforming raw transactional data into actionable business insights using R.*
+- **Advanced Customer Segmentation:** Implemented a dual-layer approach combining **RFM Modeling** (rule-based categorization) and **K-Means Clustering** (unsupervised ML optimized via Elbow Method & PCA) to profile distinct customer behaviors.
+- **Market Basket Analysis:** Applied the **Apriori Algorithm** to extract high-confidence product association rules (>85%), identifying cross-selling bundles and strategic inventory groupings.
+- **Business Impact:** Uncovered key operational insights (the 80/20 revenue rule, peak transactional windows) and designed targeted data-driven retention strategies for "At Risk" segments.
+- 🌐 **Live Report:** [Interactive Analysis Report](https://ncbachh.github.io/OnlineRetailAnalysis/reports/online_retail_analysis.html)
 
 #### 🛒 [Shopee Sentiment Analysis Pipeline](https://github.com/ncbachh/scrape_shopee)
 *An end-to-end data collection and preprocessing engine for e-commerce insights.*
@@ -30,6 +37,7 @@ I am a highly motivated IT student at **National Economics University (NEU)** wi
 - **Full-Stack Scripting:** Developed a **Streamlit** web application that fetches live dictionary data via **BeautifulSoup4**.
 - **Document Automation:** Implemented **python-docx** to auto-generate professionally formatted tables and structured layouts in `.docx` files.
 - **Efficiency:** Reduced manual document creation time by ~90% for large vocabulary lists.
+- 🌐 **Live Web App:** [Vocabulary Generator Web](https://vocabulary-generator-web.streamlit.app/)
 
 #### 🎵 [Audio Signal Processing](https://github.com/ncbachh/spectral_gating)
 - Focused on real-world noise reduction algorithms.
@@ -38,9 +46,9 @@ I am a highly motivated IT student at **National Economics University (NEU)** wi
 ---
 
 ### 🎯 Current Goals & Interests
-- 🔍 **Seeking Internships:** Actively looking for Data Analyst or Data Engineer roles where I can apply my automation and analytical skills.
-- 🤖 **Deepening AI:** Exploring advanced sentiment analysis models and NLP techniques.
-- 🌐 **Networking:** Strengthening my understanding of enterprise-level network infrastructure and security.
+- 🔍 **Seeking Internships:** Actively looking for Data Analyst or Data Engineer roles where I can apply my automation, analytical, and statistical modeling skills.
+- 🤖 **Deepening AI:** Exploring advanced sentiment analysis models, NLP techniques, and computer vision applications.
+- 🌐 **Networking:** Strengthening my understanding of enterprise-level network infrastructure and system security.
 
 ---
 
@@ -53,7 +61,7 @@ I am a highly motivated IT student at **National Economics University (NEU)** wi
 ---
 
 ### 📫 Connect with Me
-- 📧 **Email:** [nguyenchibach10@gmail.com]
+- 📧 **Email:** nguyenchibach10@gmail.com
 - 📍 **Location:** Hanoi, Vietnam
 
 ---
