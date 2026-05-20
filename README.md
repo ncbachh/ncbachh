@@ -41,13 +41,6 @@ I build data pipelines, design predictive/behavioral models, and engineer automa
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncbachh&theme=transparent" alt="GitHub Profile Details" />
-</p>
-
----
-
 ### 📫 Connect with Me
 - **Email:** nguyenchibach10@gmail.com
 - **Location:** Hanoi, Vietnam
