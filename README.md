@@ -44,7 +44,7 @@ I build data pipelines, design predictive/behavioral models, and engineer automa
 ### 📫 Connect with Me
 - **Email:** nguyenchibach10@gmail.com
 - **Location:** Hanoi, Vietnam
-- **LinkedIn:** [Bach Nguyen Chi](www.linkedin.com/in/nguyenchibach)
+- **LinkedIn:** [Bach Nguyen Chi](https://www.linkedin.com/in/nguyenchibach)
 
 ---
 *“Turning data into actionable insights and manual tasks into efficient code.”*
