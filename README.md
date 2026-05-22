@@ -23,9 +23,9 @@ I build data pipelines, design predictive/behavioral models, and engineer automa
 - [Interactive Analysis Report](https://ncbachh.github.io/OnlineRetailAnalysis/reports/online_retail_analysis.html)
 
 #### 🛒 [Shopee Sentiment Analysis Pipeline](https://github.com/ncbachh/scrape_shopee) — *Data Engineering & Automation*
-- Engineered a custom Selenium scraper using Chrome DevTools Protocol (CDP) and remote debugging to bypass anti-bot and Captcha protections.
-- Automated the dynamic extraction of 2,000+ customer reviews across paginated, lazy-loading web pages.
-- Cleaned, parsed, and structured raw HTML/DOM payloads using Pandas for downstream sentiment analysis modeling.
+- Engineered an API-injection scraper using Chrome DevTools Protocol (CDP) and browser remote debugging to bypass anti-bot shields and secure, cryptographically signed internal endpoints.
+- Built a high-throughput pipeline (~40+ reviews/sec) by injecting asynchronous JS fetches inside the authenticated browser context to inherit session state and extract rich metadata (ratings, feedback tags, repeat buys).
+- Designed a lightweight, CPU-based NLP pipeline to normalize Vietnamese e-commerce slang (teencode), correct spelling errors via Levenshtein edit distance against a 74K-word dictionary, and tokenize compound terms (`underthesea`).
 
 #### 📖 [Dictionary-to-Docx Generator](https://github.com/ncbachh/vocabulary-generator-web) — *Automation Tooling*
 - Developed a Streamlit web application that fetches real-time dictionary data via BeautifulSoup4.
